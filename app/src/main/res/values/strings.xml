@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">创小圈</string>
+    <string name="firstFragment">小圈广场</string>
+    <string name="thirdFragment">个人主页</string>
+
+    <string name="first_step">This is the first step of the task.The more steps you complete,the more rewards you get!</string>
+    <string name="start_tip">Click "Start" to start the task!</string>
+    <string name="des_tip">Want to get all the coins? \n \n1. We recommend new users; \n2. Experience through PlayWell,must meet task requirements; \n3. Experience applicationin-depth, use core functions,experience several days in a row; \n4. Ensure environment network
+and device status is normal.</string>
+    <string name="goin">OnGoing</string>
+    <string name="daily">Daily</string>
+    <string name="unenough">Only xxx coins left to redeem!</string>
+    <string name="finished">Congratulations,you can redeem~</string>
+    <string name="day">Day</string>
+    <string name="load_failed">load more failed</string>
+
+    <string name="header_failed">刷新失败</string>
+    <string name="header_finish">刷新成功</string>
+    <string name="header_loading">正在刷新…</string>
+    <string name="header_pulling">下拉刷新</string>
+    <string name="header_refreshing">刷新…</string>
+    <string name="header_release">释放刷新</string>
+    <string name="header_secondary">Release To Second Floor</string>
+    <string name="header_update">\'上次刷新\' M-d HH:mm</string>
+    <string name="secondFragment">AI会话</string>
+</resources>

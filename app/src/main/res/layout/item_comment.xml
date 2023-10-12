@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <!-- 评论者头像 -->
+    <ImageView
+        android:id="@+id/imageCommenterAvatar"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/default_profile_image" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:orientation="vertical">
+
+        <!-- 评论者姓名 -->
+        <TextView
+            android:id="@+id/textCommenterName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="评论者姓名"
+            android:textStyle="bold" />
+
+        <!-- 评论内容 -->
+        <TextView
+            android:id="@+id/textComment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="评论内容" />
+
+        <!-- 评论时间 -->
+        <TextView
+            android:id="@+id/textCommentTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="评论时间"
+            android:textColor="#999999"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">10.90.77.142</domain>
+        <domain includeSubdomains="true">myblog.over2022.top</domain>
+    </domain-config>
+</network-security-config>

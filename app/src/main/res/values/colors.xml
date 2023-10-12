@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="top_nodata">#5A6778</color>
+    <color name="top_money">#809626</color>
+    <color name="bottom_money">#E86215</color>
+    <color name="bottom_actation">#FEFFFC</color>
+    <color name="white_actation">#FCFFF2</color>
+    <color name="text_greps">#50610B</color>
+
+    <color name="content">#4D4D4A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="top_yellow">#B4CF4A</color>
+    <color name="bottoms_yellow">#77910F</color>
+    <color name="item_back">#E0EBB5</color>
+    <color name="background">#F8F8F8</color>
+    <color name="button_yellow">#24221F</color>
+    <color name="text_black">#252622</color>
+    <color name="bottom_grep">#666666</color>
+    <color name="toolgreen">#77910F</color>
+    <color name="bottom_text">#B0ABA2</color>
+    <color name="button_red">#FF758F</color>
+    <color name="text_yellow">#FA8734</color>
+    <color name="left_pro">#0076ff</color>
+    <color name="right_pro">#FFF0DB</color>
+    <color name="pay_yellow">#783706</color>
+    <color name="bottom_yellow">#6E370D</color>
+    <color name="number_top">#FFF4BF</color>
+    <color name="reward_button">#F72A2A</color>
+    <color name="grep">#EBDADA</color>
+    <color name="withdrwable">#919191</color>
+    <color name="translate">#00000000</color>
+    <color name="circle">#252622</color>
+    <color name="edit">#EDEDED</color>
+    <color name="success">#FA8631</color>
+    <color name="main">#F1F7DA</color>
+    <color name="green">#C8C9C7</color>
+    <color name="no_green">#FAEACD</color>
+    <color name="sign_color">#F5FAFF</color>
+    <color name="back_grep">#616C7A</color>
+    <color name="task_grep">#9E9D98</color>
+    <color name="run_grep">#242E3B</color>
+    <color name="point_yellow">#FFF8EB</color>
+    <color name="gored_">#BD0B0B</color>
+    <color name="topred">#FF5C67</color>
+    <color name="top_yellows">#E0881B</color>
+    <color name="pro_br">#BEC991</color>
+    <color name="pro_start">#B4CF4A</color>
+    <color name="pro_end">#77910F</color>
+
+    <color name="yellow1_">#F5C133</color>
+    <color name="yellow2_">#FFE9BF</color>
+    <color name="textblack_">#5E4910</color>
+
+    <color name="red1_">#FF7583</color>
+    <color name="red2_">#FC495B</color>
+    <color name="sign">#FFFDF7</color>
+    <color name="sign_bottom">#FA8734</color>
+
+    <color name="sign_button">#FFEFD1</color>
+    <color name="cxq_blue">#0076ff</color>
+</resources>
